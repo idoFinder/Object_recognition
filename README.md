@@ -1,6 +1,6 @@
 # Object recognition using SVM and HOG
 
-This was a project of the course: **"Learning, representation, and Computer Vision"** by Dr Aharon bar Hillel
+This was done as part of the course: **"Learning, representation, and Computer Vision"** by Dr Aharon bar Hillel
 
 The data used for this project is the [Caltech 101 dataset](http://www.vision.caltech.edu/Image_Datasets/Caltech101/)
 
